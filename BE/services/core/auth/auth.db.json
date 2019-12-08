@@ -4,21 +4,21 @@
     "id": 1,
     "fakeToken": "58ebfdf7f1f558c5c86e17f6",
     "name": {
-      "first": "FirstName",
-      "last": "LastName"
+      "first": "Pablo",
+      "last": "Ramirez"
     },
-    "login": "flastname",
-    "password": "flastname"
+    "login": "pablo@mail.com",
+    "password": "pass123"
   },
   {
     "id": 2,
     "fakeToken": "58ebfdf7ec92657b493b24da",
     "name": {
-      "first": "Brock",
-      "last": "Beasley"
+      "first": "admin",
+      "last": "admin"
     },
-    "login": "Morales",
-    "password": "id"
+    "login": "admin@mail.com",
+    "password": "admin"
   }
 ]
 }
